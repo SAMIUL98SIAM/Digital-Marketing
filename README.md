@@ -8,9 +8,6 @@
  2.Email Template:
     i. Mini Shopinist :
     Live Demo:	https://mailchi.mp/70ddbd6cd669/mini-shopinist
-    Delivery date & time	Wed, Jan 20, 2021 10:48 am
-    From name	Honey
-    From email	mini.shopinist@gmail.com
     Subject line	Mini Shopinist
     Preview text	buy 2 and get 10% discount❤❤
     Recipients	Sent to audience: Md Samiul Hoque
