@@ -3,10 +3,14 @@
  1. Landing page: 
  
  
-    i.  Mini Shopinist live demo: https://mailchi.mp/e69335a8f69c/9lpb3by4sa
+    i.   Mini Shopinist live demo: https://mailchi.mp/e69335a8f69c/9lpb3by4sa
     
     
-    ii. Reve Auto Car BD live demo : https://mailchi.mp/8d51c4cd673e/md-samiul-hoque
+    ii.  Reve Auto Car BD live demo : https://mailchi.mp/8d51c4cd673e/md-samiul-hoque
+    
+    
+    iii. CK Pools live demo : https://mailchi.mp/8fd414beacc4/ck-pools
+    
     
 
 
